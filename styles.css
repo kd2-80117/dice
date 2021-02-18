@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.container_child{
+    display: inline-block;
+    margin: 10px;
+}
+
+body{
+    background-color:#393E46;
+    color: #4ECCA3;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-size: 7rem;
+    margin: 20px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+img{
+    width: 70%;
+}
+
+footer{
+    color: white;
+    margin: 5%;
+}
